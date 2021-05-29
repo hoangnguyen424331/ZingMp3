@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZingMp3</string>
+    <string name="duration" />
+    <string name="current_time" />
+</resources>
